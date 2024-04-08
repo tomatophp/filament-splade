@@ -51,6 +51,18 @@ if you like to use splade everywhere reigster the plugin on `/app/Providers/Fila
 
 and make sure that you are `global_allow => true` on the config file.
 
+## Register Splade Exceptions
+
+on your `boostrap/app.php` file add this line
+
+```php
+->withExceptions(function (Exceptions $exceptions) {
+    $exceptions->renderable(function (\Illuminate\Foundation\Exceptions\Handler $e) {
+        return \ProtoneMedia\Splade\SpladeCore::exceptionHandler($e);
+    });
+})
+```
+
 ## Publish Assets
 
 you can publish config file by use this command
