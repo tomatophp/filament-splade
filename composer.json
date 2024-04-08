@@ -5,7 +5,14 @@
     "keywords": [
         "php",
         "laravel",
-        "template"
+        "splade",
+        "filament",
+        "vuejs3",
+        "vue3",
+        "components",
+        "form",
+        "table",
+        "modal",
     ],
     "license": "MIT",
     "autoload": {
