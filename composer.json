@@ -12,7 +12,7 @@
         "components",
         "form",
         "table",
-        "modal",
+        "modal"
     ],
     "license": "MIT",
     "autoload": {
