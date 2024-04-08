@@ -1,8 +1,9 @@
 <?php
 
-namespace Tomatophp\FilamentSplade\Console;
+namespace TomatoPHP\FilamentSplade\Console;
 
 use Illuminate\Console\Command;
+use Illuminate\Support\Facades\File;
 use TomatoPHP\ConsoleHelpers\Traits\RunCommand;
 
 class FilamentSpladeInstall extends Command
@@ -37,11 +38,11 @@ class FilamentSpladeInstall extends Command
     public function handle()
     {
         $this->info('Publish Vendor Assets');
-        $this->callSilent('optimize:clear');
-        $this->yarnCommand(['install']);
-        $this->yarnCommand(['build']);
-        $this->artisanCommand(["migrate"]);
+        if(!File::exists(resource_path('views/root.blade.php'))){
+            File::copyDirectory(__DIR__ . '/../../publish', app_path());
+        }
         $this->artisanCommand(["optimize:clear"]);
-        $this->info('filamentSplade installed successfully.');
+        $this->info('Please run yarn & yarn dev to compile your fresh scaffolding.');
+        $this->info('Filament Splade installed successfully.');
     }
 }

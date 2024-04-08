@@ -1,5 +1,5 @@
 <?php
 
 return [
-    //You config go here...
+   "global_allow" => false
 ];
