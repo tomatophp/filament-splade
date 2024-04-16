@@ -1,6 +1,11 @@
-![Screenshot](./arts/screenshot.png)
+![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/3x1io-tomato-splade.jpg)
 
 # Filament splade
+
+[![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-splade/version.svg)](https://packagist.org/packages/tomatophp/filament-splade)
+[![PHP Version Require](http://poser.pugx.org/tomatophp/filament-splade/require/php)](https://packagist.org/packages/tomatophp/filament-splade)
+[![License](https://poser.pugx.org/tomatophp/filament-splade/license.svg)](https://packagist.org/packages/tomatophp/filament-splade)
+[![Downloads](https://poser.pugx.org/tomatophp/filament-splade/d/total.svg)](https://packagist.org/packages/tomatophp/filament-splade)
 
 Integration of [Splade](https://splade.dev/) Vue Components for Filament
 
@@ -9,10 +14,10 @@ this project still out of filament style, and we are working to move style to fi
 
 ## Screenshots
 
-![Screenshot](./arts/form.png)
-![Screenshot](./arts/modal.png)
-![Screenshot](./arts/slideover.png)
-![Screenshot](./arts/table.png)
+![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/form.png)
+![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/modal.png)
+![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/slideover.png)
+![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/table.png)
 
 ## Installation
 
