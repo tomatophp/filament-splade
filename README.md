@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/3x1io-tomato-splade.jpg)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/3x1io-tomato-splade.jpg)
 
 # Filament splade
 
@@ -14,10 +14,10 @@ this project still out of filament style, and we are working to move style to fi
 
 ## Screenshots
 
-![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/form.png)
-![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/modal.png)
-![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/slideover.png)
-![Screenshot](https://github.com/tomatophp/filament-splade/blob/master/arts/table.png)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/form.png)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/modal.png)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/slideover.png)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/table.png)
 
 ## Installation
 
