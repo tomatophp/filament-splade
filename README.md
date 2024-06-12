@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-splade/master/arts/3x1io-tomato-splade.jpg)
 
-# Filament splade
+# Filament Splade Integration
 
 [![Latest Stable Version](https://poser.pugx.org/tomatophp/filament-splade/version.svg)](https://packagist.org/packages/tomatophp/filament-splade)
 [![PHP Version Require](http://poser.pugx.org/tomatophp/filament-splade/require/php)](https://packagist.org/packages/tomatophp/filament-splade)
@@ -82,7 +82,7 @@ you can join our discord server to get support [TomatoPHP](https://discord.gg/Xq
 
 ## Docs
 
-you can check docs of this package on [Docs](https://docs.tomatophp.com/plugins/laravel-package-generator)
+you can check docs of this package on [Docs](https://docs.tomatophp.com/filament/filament-splade)
 
 ## Changelog
 
@@ -94,7 +94,7 @@ Please see [SECURITY](SECURITY.md) for more information about security.
 
 ## Credits
 
-- [Fady Mondy](mailto:info@3x1.io)
+- [Fady Mondy](https://wa.me/+201207860084)
 
 ## License
 
